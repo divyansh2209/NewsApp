@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Joe Morgan",
+        "title": "College football Week 2 preview: Texas welcomes No. 1 Alabama to Austin, Top 25 SEC battle in Gainesville - Fox News",
+        "description": "Week 2 of the college football season kicks off with No. 1 Alabama heading to Austin to take on Texas and finishes with No. 9 Baylor heading to Provo, Utah, to play No. 21 BYU.",
+        "url": "https://www.foxnews.com/sports/college-football-week-2-preview-texas-welcomes-no-1-alabama-austin-top-25-sec-battle-in-gainesville",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/GettyImages-1342150379.jpg",
+        "publishedAt": "2022-09-10T10:00:22Z",
+        "content": "Theres usually a lull after Week 1 of the college football season\r\n. \r\nAfter all the excitement and shine wears off from the beginning of a new season, the Week 2 slate can be filled with its fair sh… [+10866 chars]"
+    },
+            {
+            "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Oz tries to tighten the screws on Fetterman - The Hill",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzYzNjYyOC1vei10cmllcy10by10aWdodGVuLXRoZS1zY3Jld3Mtb24tZmV0dGVybWFuL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-09-10T09:58:00Z",
+        "content": null
+    },
+            {
+            "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Royal Family Needs to Address 'Dark Skin' Comment in Order to Survive - TMZ",
+        "description": "There's a massive cloud hanging over The Royal Family regarding the \"dark skin\" comment that was allegedly made about Harry and Meghan's son Archie, and if it's not addressed soon, it could spell the beginning of the end of the monarchy ... according to a roy…",
+        "url": "https://www.tmz.com/2022/09/10/harry-meghan-royal-family-dark-skin-comment-public-scrutiny/",
+        "urlToImage": "https://imagez.tmz.com/image/75/16by9/2022/09/09/75a5bfd5dcd7456882b823e0bfd33349_xl.jpg",
+        "publishedAt": "2022-09-10T08:00:00Z",
+        "content": "There's a massive cloud hanging over The Royal Family regarding the \"dark skin\" comment that was allegedly made about Harry and Meghan's son Archie, and if it's not addressed soon, it could spell the… [+1457 chars]"
+    },
+            {
+            "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "UFC 279 Embedded: Vlog Series - Episode 5 - UFC - Ultimate Fighting Championship",
+        "description": "An altercation between Khamzat Chimaev and Kevin Holland occurs backstage resulting in Dana cutting the UFC 279 Pre Fight Press Conference short.  Kevin Holl...",
+        "url": "https://www.youtube.com/watch?v=aO6yXBGtQxs",
+        "urlToImage": "https://i.ytimg.com/vi/aO6yXBGtQxs/maxresdefault.jpg",
+        "publishedAt": "2022-09-10T07:07:08Z",
+        "content": null
+    }
+]
+}
